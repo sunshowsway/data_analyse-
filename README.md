@@ -1,5 +1,7 @@
 # 利用Python进行数据分析 2017 第二版 （Python for Data Analysis, 2nd Edition）中文翻译笔记
 
+commit 88d320 备份
+
 这本书的英文版github仓库：[pydata-book](https://github.com/wesm/pydata-book)
 
 作者[Wes McKinney](https://github.com/wesm)是pandas的创作者，所以书中关于pandas的讲解也是最实用的部分。我也直接联系过了Wes本人，这个笔记不会有任何版权问题，当然，也不会用于任何商业用途。
